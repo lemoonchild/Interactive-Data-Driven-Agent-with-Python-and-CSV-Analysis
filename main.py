@@ -137,7 +137,7 @@ def main():
     st.markdown("## Python REPL")
     python_options = [
         "La división de los números 4000 sobre 40",
-        "Crea un juego básico de snake con la librería pygame",
+        "Simula el lanzamiento de dos dados 500 veces y calcula la probabilidad de obtener un total de 7",
         "Genera un patrón piramidal de asteriscos de tamaño 5",
     ]
     python_example = st.selectbox("Ejemplos de Python", python_options, key="python_example")
@@ -189,7 +189,7 @@ def main():
         for entry in history:
             st.text(entry)
 
-    st.write("")  #
+    st.write("")
     st.write("")
 
 

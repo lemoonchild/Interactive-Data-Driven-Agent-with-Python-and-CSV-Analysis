@@ -82,3 +82,76 @@ Este programa define una función `celsius_to_fahrenheit` que toma un valor en gr
 
 This pattern continues across various breeds, showing a slight variation in weight between genders within the same breed. If you need specific details for other breeds, feel free to ask!
 2024-11-22 10:50:50.837990: How many cats are older than 5 years, and what are their most common colors?-->There are 55 cats older than 5 years with the most common color being Gray. Other common colors include Sable, Bicolor, Black, Pointed, Blue, Calico, Tortoiseshell, Red, Cream, Orange, Brown, Tricolor, Tabby, and White.
+2024-11-22 11:04:20.131177: La división de los números 4000 sobre 40-->La división de 4000 entre 40 es 100.
+2024-11-22 11:04:32.339543: Genera un patrón piramidal de asteriscos de tamaño 5-->```
+    *
+   ***
+  *****
+ *******
+*********
+```
+2024-11-22 11:10:54.407277: La división de los números 4000 sobre 40-->100
+2024-11-22 11:12:31.121423: La división de los números 4000 sobre 40-->La división de 4000 entre 40 es 100.0.
+2024-11-22 11:12:44.508495: Genera un patrón piramidal de asteriscos de tamaño 5-->```
+    *
+   ***
+  *****
+ *******
+*********
+```
+2024-11-22 11:14:55.782028: La división de los números 4000 sobre 40-->La división de 4000 entre 40 es 100.
+2024-11-22 11:15:48.463529: La división de los números 4000 sobre 40-->La división de 4000 entre 40 es 100.
+2024-11-22 11:16:01.114750: Genera un patrón piramidal de asteriscos de tamaño 5-->```
+    *
+   ***
+  *****
+ *******
+*********
+```
+2024-11-22 11:18:42.583545: Simula el lanzamiento de dos dados 500 veces y calcula la probabilidad de obtener un total de 7-->La probabilidad de obtener un total de 7 al lanzar dos dados 500 veces es aproximadamente 0.192.
+2024-11-22 11:19:01.285641: La división de los números 4000 sobre 40-->La división de 4000 entre 40 es 100.
+2024-11-22 11:19:14.577198: Simula el lanzamiento de dos dados 500 veces y calcula la probabilidad de obtener un total de 7-->La probabilidad de obtener un total de 7 al lanzar dos dados 500 veces es aproximadamente 0.146.
+2024-11-22 11:19:27.941379: Genera un patrón piramidal de asteriscos de tamaño 5-->```
+    *
+   ***
+  *****
+ *******
+*********
+```
+2024-11-22 11:20:49.397115: La división de los números 4000 sobre 40-->La división de 4000 entre 40 es 100.0.
+2024-11-22 11:21:10.671282: Simula el lanzamiento de dos dados 500 veces y calcula la probabilidad de obtener un total de 7-->La probabilidad de obtener un total de 7 al lanzar dos dados 500 veces es aproximadamente 0.174.
+2024-11-22 11:21:27.645189: Genera un patrón piramidal de asteriscos de tamaño 5-->```
+    *
+   ***
+  *****
+ *******
+*********
+```
+2024-11-22 11:22:29.015270: What is the average weight of cats by breed and gender?-->The average weight of cats varies by breed and gender. Here are some examples:
+- Abyssinian: Females average 5.5 kg, Males average 4.27 kg
+- American Shorthair: Females average 6.24 kg, Males average 5.78 kg
+- Bengal: Females average 5.29 kg, Males average 4.72 kg
+- Maine Coon: Females average 5.59 kg, Males average 5.38 kg
+- Siamese: Females average 5.95 kg, Males average 5.36 kg
+
+This data shows that there can be slight differences in average weight between genders within the same breed.
+2024-11-22 11:23:06.057878: Which type of dog has the highest friendly rating and is good with children?-->The Cavalier King Charles Spaniel is the dog breed with the highest friendly rating and is known for being good with children.
+2024-11-22 11:23:34.888147: What is the average sleep duration for students in each university year?-->The average sleep duration for students in each university year is as follows:
+- 1st Year: 6.49 hours
+- 2nd Year: 6.56 hours
+- 3rd Year: 6.48 hours
+- 4th Year: 6.32 hours
+2024-11-22 11:24:04.984717: Which food has the highest antioxidant score and the lowest calories?-->The food with the highest antioxidant score and the lowest calories is cinnamon.
+2024-11-22 11:24:55.388811: What is the average protein content of foods originated from different regions?-->The average protein content of foods from different regions varies significantly. Here are some examples:
+- Africa: 0.9g
+- Ancient Greece: 2.7g
+- Asia: 5.0g
+- Central America: 5.26g
+- East Asia: 18.4g
+- Greece: 17.3g
+- Mediterranean Sea: 22.7g
+- Middle East: 7.83g
+- North Pacific Ocean: 22.1g
+- Worldwide: 11.19g
+
+These values represent the average protein content in grams for foods originating from these regions.
